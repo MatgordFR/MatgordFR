@@ -11,7 +11,6 @@
 
 - 🔍 Je travaille actuellement sur un gros projet.
 - 🚀 Comment me joindre? [Profil Discord](https://discord.com/users/719837424930258986).
-- 🤝 Je collabore actuellement avec [JUIFIX](https://github.com/).
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l3ks304r2m69fbsz9t7ikco8w&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=l3ks304r2m69fbsz9t7ikco8w&redirect=true)
