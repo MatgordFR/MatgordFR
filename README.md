@@ -3,7 +3,6 @@
 ###  Je suis Matgord.
 
 - 🚀 Comment me joindre [Discord](https://discord.com/users/711533499806515220).
-- 🤝 Je collabore actuellement avec [AzuraiFr](https://github.com/AzuraiFr).
 - 👤 Ma [biographie](https://dsc.bio/matgordfr) sur discord.
 
 <br />
