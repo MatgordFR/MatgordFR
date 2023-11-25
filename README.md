@@ -25,5 +25,5 @@
 
 <h1 align="center">Discord Presence</h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/711533499806515220?theme=light&bg=738bd7&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/711533499806515220)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/711533499806515220?theme=light&bg=738bd7&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/689890476811354242)
 
