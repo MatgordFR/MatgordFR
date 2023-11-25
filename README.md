@@ -1,8 +1,8 @@
 <h1 align="center">Salut à toi 👋</h1>
 
-###  Je suis matgord..
+###  Je suis Matgord.
 
-=- 🚀 Comment me joindre [Discord](https://discord.com/users/711533499806515220).
+- 🚀 Comment me joindre [Discord](https://discord.com/users/711533499806515220).
 - 🤝 Je collabore actuellement avec [AzuraiFr](https://github.com/AzuraiFr).
 - 👤 Ma [biographie](https://dsc.bio/matgordfr) sur discord.
 
@@ -25,5 +25,5 @@
 
 <h1 align="center">Discord Presence</h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/711533499806515220?theme=light&bg=738bd7&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/689890476811354242)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/689890476811354242?theme=light&bg=738bd7&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/689890476811354242)
 
