@@ -2,7 +2,6 @@
 
 ###  Je suis Matgord.
 
-- 🤝 Je collabore actuellement avec [AzuraiFr](https://github.com/AzuraiFr).
 - 👤 Ma [biographie](https://dsc.bio/matgordfr) sur discord.
 
 <br />
