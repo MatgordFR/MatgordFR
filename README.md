@@ -3,7 +3,7 @@
 ###  Je suis Matgord.
 
 - 🚀 Comment me joindre [Discord](https://discord.com/users/689890476811354242).
-- 👤 Ma [biographie](https://dsc.bio/matgordfr) sur discord.
+- 👤 Ma [biographie](https://dsc.bio/Matgord) sur discord.
 
 <br />
 
