@@ -9,9 +9,9 @@
    <br/>
 <div align="left">
   
-- **💡 Je travaille actuellement sur un projet.**
-- **💼 J'apprends actuellement ***GO, PHP**.***
-- **📬 Je t'invite à me rejoindre sur [Discord](https://discord.com/users/689890476811354242).**
+- **💡 Je travaille actuellement sur un projet**
+- **💼 J'apprends actuellement ***GO, PHP*****
+- **📬 Je t'invite à me rejoindre sur [Discord](https://discord.com/users/689890476811354242)**
 - **📋 Je t'invite à aller voir ma [biographie](https://dsc.bio/Matgord)**
 </div>
  
