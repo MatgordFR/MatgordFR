@@ -1,28 +1,45 @@
-<h1 align="center">Salut à toi 👋</h1>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=0003F7&lines=salut+toi+!+👋;" />
+</h3>
 
-###  Je suis Matgord.
+<hr/>
 
-- 🚀 Comment me joindre [Discord](https://discord.com/users/689890476811354242).
-- 👤 Ma [biographie](https://dsc.bio/Matgord) sur discord.
 
-<br />
+<h2 align="center">Profil Github</h2>
+<br/>
+<div align="left">
+  
+- **Je travail actuellement sur un projet.**
+- **J'apprends actuellement ***GO, PHP**.***
+- **Je t'invite à me rejoindre [Discord](https://discord.com/users/689890476811354242).**
+- **Je t'invite à aller Voir ma [biographie](https://dsc.bio/Matgord)**
+</div>
+ 
+<hr/>
 
-<h1 align="center">Langues et Outils</h1>
+ 
+<h2 align="center">Langages & Outils</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs," /><br>
+    <img src="https://skillicons.dev/icons?i=github" />
+</div>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<br />
-<br />
+<hr/>
 
-<h1 align="center">Discord Presence</h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/689890476811354242?theme=light&bg=738bd7&animated=false&hideDiscrim=true&borderRadius=10px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/689890476811354242)
+<h2 align="center">Statistiques GitHub</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=MatgordFR&theme=dark&show_icons=true&hide_border=false&count_private=false" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatgordFR&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="readme stats" />
+</div>
 
+<hr/>
+
+
+<h2 align="center">Profil Discord</h2>
+<br>
+<div align="center">
+ <img src='https://lanyard-profile-readme.vercel.app/api/689890476811354242' /></a>
+</div>
