@@ -1,4 +1,4 @@
-<div align="center">
+<div>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&repeat=false&width=435&lines=Bonjour+%F0%9F%91%8B+je+suis+MatgordFR.;aaaaaahhhhhhhhh!!!!!!!;Je+te+vois+%5E%5E." />
 </div>
 
