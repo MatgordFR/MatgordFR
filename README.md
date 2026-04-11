@@ -25,7 +25,7 @@
 Développeur passionné, j'aime construire des projets qui ont du sens — des bots Discord aux applications web. Je suis actuellement en train d'élargir mes compétences.
 
 - 🔨 En train de travailler sur **Un Project**
-- 💬 Disponible sur [Discord](https://discord.com/users/689890476811354242) ou [X](https://x.com/matgordfr))
+- 💬 Disponible sur [Discord](https://discord.com/users/689890476811354242) ou [X](https://x.com/matgordfr)
 
 <hr/>
 
