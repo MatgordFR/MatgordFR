@@ -60,12 +60,3 @@ Développeur passionné, j'aime construire des projets qui ont du sens — des b
     <img width=390 src="https://streak-stats.demolab.com?user=MatgordFR&theme=buefy-dark&hide_border=true&locale=fr&type=png&hide_total_contributions=true&hide_current_streak=true"/>
 
 </div>
-
-
-<hr/>
-
-<h2 align="center">🐍 Mes contributions 🐍</h2>
-<br/>
-<div align="center">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</div>
