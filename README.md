@@ -1,45 +1,70 @@
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=0003F7&lines=salut+toi+!+🧸;" />
-</h3>
-
-<hr/>
-
-
-<h2 align="center">🔍 Profil Github 🔎</h2>
-   <br/>
-<div align="left">
-  
-- **💡 Je travaille actuellement sur un projet**
-- **💼 J'apprends actuellement ***GO, PHP*****
-- **📬 Je t'invite à me rejoindre sur [Discord](https://discord.com/users/689890476811354242)**
-- **📋 Je t'invite à aller voir mon compte [X / Twitter](https://twitter.com/Mr_Matgord)**
-</div>
- 
-<hr/>
-
- 
-<h2 align="center">🛠️ Langages & Outils 🛠️</h2>
-   <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,md,java,ruby,ts,mongodb,mysql,sqlite" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,powershell,wordpress,ps,ai,github,git,discord,bots"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=4000&color=0003F7&lines=Bonjour+👋+je+suis+MatgordFR;aaaaaahhhhhhhhh!!!!!!!;Je+te+vois ^^." />
 </div>
 
-<hr/>
 
+<br/>
 
-<h2 align="center">📉 Statistiques GitHub 📈</h2>
-   <br>
-<div align=center>
-      <img width=390 src="https://github-readme-stats.vercel.app/api?username=MatgordFR&theme=dark&show_icons=true&hide_border=false&count_private=false" alt="streak stats"/>
-      <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatgordFR&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="readme stats" />
-</div>
-
-<hr/>
-
-
-<h2 align="center">📁 Profil Discord 📂</h2>
-   <br>
 <div align="center">
-      <img src='https://lanyard-profile-readme.vercel.app/api/689890476811354242' /></a>
+    <a href="https://discord.com/users/689890476811354242">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <a href="https://twitter.com/Mr_Matgord">
+        <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/>
+    </a>
+    <a href="https://github.com/MatgordFR">
+        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+</div>
+
+
+<hr/>
+
+## 🙋 À propos de moi
+
+Développeur passionné, j'aime construire des projets qui ont du sens — des bots Discord aux applications web. Je suis actuellement en train d'élargir mes compétences.
+
+- 🔨 En train de travailler sur **Un Project**
+- 💬 Disponible sur [Discord](https://discord.com/users/689890476811354242) ou [X](https://discord.com/users/689890476811354242) 
+
+
+<hr/>
+
+## 🛠️ Stack technique
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,go,php,java,ruby,md" /><br><br>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,git,github,vscode,powershell,wordpress,discord,ps"/>
+</div>
+
+
+<hr/>
+
+<h2 align="center">📁 Profil 📁</h2>
+
+
+<div align="center">
+    <img src="https://lanyard.cnrad.dev/api/689890476811354242?theme=dark&showDisplayName=true)](https://discord.com/users/689890476811354242"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=l3ks304r2m69fbsz9t7ikco8w&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark"/>  
+
+</div>
+
+<hr/>
+
+<h2 align="center">📊 Statistiques GitHub 📊</h2>
+
+<div align="center">
+    <img width=390 src="https://streak-stats.demolab.com?user=MatgordFR&theme=buefy-dark&hide_border=true&locale=fr&type=png&hide_current_streak=true&hide_longest_streak=true"/>
+    <img width=390 src="https://streak-stats.demolab.com?user=MatgordFR&theme=buefy-dark&hide_border=true&locale=fr&type=png&hide_total_contributions=true&hide_longest_streak=true"/>
+    <img width=390 src="https://streak-stats.demolab.com?user=MatgordFR&theme=buefy-dark&hide_border=true&locale=fr&type=png&hide_total_contributions=true&hide_current_streak=true"/>
+
+</div>
+
+
+<hr/>
+
+<h2 align="center">🐍 Mes contributions 🐍</h2>
+<br/>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
