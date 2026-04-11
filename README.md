@@ -20,7 +20,7 @@
 
 <hr/>
 
-## 🙋 À propos de moi
+<h2 align="center">🙋 À propos de moi 🙋</h2>
 
 Développeur passionné, j'aime construire des projets qui ont du sens — des bots Discord aux applications web. Je suis actuellement en train d'élargir mes compétences.
 
@@ -30,7 +30,8 @@ Développeur passionné, j'aime construire des projets qui ont du sens — des b
 
 <hr/>
 
-## 🛠️ Stack technique
+<h2 align="center">🛠️ Stack technique 🛠️</h2>
+
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,go,php,java,ruby,md" /><br><br>
