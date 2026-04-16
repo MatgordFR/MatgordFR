@@ -26,7 +26,7 @@ Développeur passionné, j'aime construire des projets qui ont du sens — des b
 
 - 🔨 En train de travailler sur **Un Project**
 - 💬 Disponible sur [Discord](https://discord.com/users/689890476811354242) ou [X](https://x.com/matgordfr)
-- 🚀 [Hostmyservers](https://www.hostmyservers.fr/) Hébergeur avec qui je suis client depuis le 30/03/2020.
+- 🚀 [Hostmyservers](https://www.hostmyservers.fr/) est mon hébergement depuis le 30/03/2020.
 <hr/>
 
 <h2 align="center">🛠️ Stack technique 🛠️</h2>
