@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&pause=1000&color=F70000&width=435&lines=Salut+%F0%9F%91%8B%2C+je+suis+MatgordFR+%F0%9F%A7%B8.;D%C3%A9veloppeur+passionne;de+p%C3%A8re+en+fork+x');Je+construis+des+trucs+cool.+%F0%9F%8C%9F;aaaaaahhhhhhhhh!!!!!++bref+Tg+%F0%9F%96%95+%3A);%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Google+Sans&pause=1000&color=F70000&width=435&lines=Salut+%F0%9F%91%8B%2C+je+suis+MatgordFR+%F0%9F%A7%B8.;Je+construis+des+trucs+cool.+%F0%9F%8C%9F;aaaaaahhhhhhhhh!!!!!++bref+Tg+%F0%9F%96%95+%3A);%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6%F0%9F%AB%B6" />
 
     
 </div>
