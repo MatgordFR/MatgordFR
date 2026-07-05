@@ -38,14 +38,13 @@ Développeur passionné, j'aime construire des projets qui ont du sens — des b
 
 <hr/>
 
-<h2 align="center">🎵 Profil Discord &amp; Spotify 🎵</h2>
+<h2 align="center">🎵 Profil Discord 🎵</h2>
 
 <div align="center">
     <a href="https://discord.com/users/689890476811354242">
         <img src="https://lanyard.cnrad.dev/api/689890476811354242?theme=dark&showDisplayName=true"/>
     </a>
     <br/>
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=l3ks304r2m69fbsz9t7ikco8w&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true&mode=dark"/>
 </div>
 
 <hr/>
