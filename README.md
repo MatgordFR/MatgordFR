@@ -58,8 +58,7 @@ Développeur Discord & full-stack, j'aime concevoir des bots qui rendent les ser
 
 Du premier bot bancal aux projets propulsés par l'IA — j'ai gardé les archives, sans les retoucher :
 
-- **2021** — mes débuts : [**skanix-archive**](https://github.com/MatgordFR/skanix-archive) *(mes tout premiers bots Discord)*
-- **2024** — la série d'annonce : [**pub-bots-archive**](https://github.com/MatgordFR/pub-bots-archive) *(16 bots de vérification de pub)*
+- **2019 – 2021** — mes débuts : [**skanix-archive**](https://github.com/MatgordFR/skanix-archive) et [**pub-bots-archive**](https://github.com/MatgordFR/pub-bots-archive) *(mes premiers bots Discord, dont une série de bots de vérification de pub)*
 - **2026** — **[Kalvyx](https://kalvyx.com)** 🚀 *(bot Discord + IA, mon projet actuel)*
 
 ---
