@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=28&pause=1000&color=5865F2&center=true&vCenter=true&width=560&lines=Salut%2C+moi+c'est+MatgordFR+%F0%9F%91%8B;Je+construis+des+bots+Discord+propuls%C3%A9s+par+l'IA;Cr%C3%A9ateur+de+Kalvyx+%F0%9F%A4%96" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Google+Sans&size=24&pause=1000&color=5865F2&center=true&vCenter=true&width=700&height=55&lines=Salut%2C+moi+c'est+MatgordFR+%F0%9F%91%8B;Je+construis+des+bots+Discord+propuls%C3%A9s+par+l'IA;Cr%C3%A9ateur+de+Kalvyx+%F0%9F%A4%96" alt="typing" />
 
 <p>
   <a href="https://kalvyx.com"><img src="https://img.shields.io/badge/Kalvyx-kalvyx.com-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Kalvyx"/></a>
