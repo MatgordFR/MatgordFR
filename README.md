@@ -72,6 +72,18 @@ Du premier bot bancal aux projets propulsés par l'IA — j'ai gardé les archiv
 
 </div>
 
+## 🐍 Mes contributions, croquées
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatgordFR/MatgordFR/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatgordFR/MatgordFR/output/github-snake.svg" />
+  <img alt="snake des contributions GitHub de MatgordFR" src="https://raw.githubusercontent.com/MatgordFR/MatgordFR/output/github-snake.svg" />
+</picture>
+
+</div>
+
 <div align="center">
 <sub>Merci d'être passé 👋</sub>
 </div>
