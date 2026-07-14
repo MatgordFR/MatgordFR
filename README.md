@@ -67,8 +67,8 @@ Du premier bot bancal aux projets propulsés par l'IA — j'ai gardé les archiv
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MatgordFR&show_icons=true&hide_border=true&theme=tokyonight&locale=fr" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatgordFR&layout=compact&hide_border=true&theme=tokyonight&locale=fr" alt="top langs" />
+<img height="165" src="https://matgord.com/ghstats/api?username=MatgordFR&show_icons=true&hide_border=true&theme=tokyonight&locale=fr" alt="stats" />
+<img height="165" src="https://matgord.com/ghstats/api/top-langs/?username=MatgordFR&layout=compact&hide_border=true&theme=tokyonight&locale=fr" alt="top langs" />
 
 </div>
 
