@@ -46,6 +46,7 @@ Développeur Discord & full-stack, j'aime concevoir des bots qui rendent les ser
 | Projet | En bref |
 |---|---|
 | 🤖 **[Kalvyx](https://kalvyx.com)** | Bot Discord tout-en-un propulsé par l'IA (site + dashboard) |
+| 📊 **[matgord-crm-demo](https://matgordfr.github.io/matgord-crm-demo/)** | CRM avec analytics de MRR (waterfall, ARPU, LTV, churn) — démo vitrine, 100% vanilla, zéro dépendance |
 | 📢 **[discord-pub-verif](https://github.com/MatgordFR/discord-pub-verif)** | Vérification des pubs / partenariats : validation, sanctions, leaderboard |
 | 🎫 **[discord-ticket-transcript](https://github.com/MatgordFR/discord-ticket-transcript)** | Tickets avec transcription HTML automatique |
 | 🖼️ **[welcome-goodbye-cards](https://github.com/MatgordFR/welcome-goodbye-cards)** | Cartes d'accueil et de départ générées (canvas) |
